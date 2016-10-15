@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoProcessing", "ArduinoProcessing\ArduinoProcessing.csproj", "{2E129DD4-0E4D-4346-B5C8-CA80E82636A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotting", "Plotting\Plotting.csproj", "{B7E06935-8573-4C81-B423-21106474BEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E129DD4-0E4D-4346-B5C8-CA80E82636A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E129DD4-0E4D-4346-B5C8-CA80E82636A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E129DD4-0E4D-4346-B5C8-CA80E82636A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E129DD4-0E4D-4346-B5C8-CA80E82636A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E06935-8573-4C81-B423-21106474BEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E06935-8573-4C81-B423-21106474BEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E06935-8573-4C81-B423-21106474BEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E06935-8573-4C81-B423-21106474BEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
